@@ -1,24 +1,5 @@
-# README
+# Rails Authentication with Admin
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Set up authentication with devise and adding an admin role with nested controllers.
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
